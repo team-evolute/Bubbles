@@ -29,6 +29,11 @@ Style: https://github.com/airbnb/javascript
 # Additional
 Instead of .txt, use .md instead (https://daringfireball.net/projects/markdown/syntax)
 
+# Hosting
+Development app can be hosted on Heroku using GrapheneDB as Neo4j DB.
+https://bubbles-test.herokuapp.com/
+example: https://github.com/aseemk/node-neo4j-template
+
 #Milestones:
 
 ## Milestone 1
