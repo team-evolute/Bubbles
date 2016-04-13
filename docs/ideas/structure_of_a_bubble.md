@@ -9,7 +9,7 @@ UNDERSTAND - Highlight important concepts (clickable links)
 
 What where how when why
 
-CONCEPT - What?
+### CONCEPT - What?
 
 Name, components, contexts, explanations, examples, generalized versions, special cases
 
@@ -45,7 +45,7 @@ Explanations: [A shape made by drawing straight lines to outline N points]
 
 Examples: {Picture} Several N-gons.
 
-CHOICE - When what why?
+### CHOICE - When what why?
 
 When: condition
 
@@ -53,9 +53,10 @@ What: concept
 
 Why:  reason
 
-Ex:
+Ex: ...
 
-CONDITION Where when what 
+### CONDITION Where when what 
+
 
 Where
 
