@@ -7,6 +7,7 @@ https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-a
 # Versioning
 Source control: git
 Repository: https://github.com/team-evolute/Bubbles
+Branching model: http://nvie.com/posts/a-successful-git-branching-model/
 
 # Backend
 Server: Node.js (javaScript)
