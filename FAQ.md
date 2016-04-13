@@ -1,6 +1,9 @@
 # Quick pitch
 Grow intelligence - together!
 
+# Slogan
+Thought -> Dialogue -> Bubbles
+
 # Technical pitch
 A fun and easy to use platform for collective intelligence focused on providing relevant information through the use of good data purification, abstractions, visualization, a good community and machine learning.
 
