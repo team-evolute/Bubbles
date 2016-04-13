@@ -1,3 +1,5 @@
+# Structure of a bubble
+
 Improving:
 SHORTEN - Remove unnecessary words
 UNDERSTAND - Highlight important concepts (clickable links)
