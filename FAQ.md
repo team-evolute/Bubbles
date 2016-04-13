@@ -3,6 +3,7 @@ A fun and easy to use platform for collective intelligence focused on providing 
 
 # Code tips
 https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.buzmz17d4
+https://www.codementor.io/reactjs/tutorial/beginner-guide-setup-reactjs-environment-npm-babel-6-webpack
 
 # Versioning
 Source control: git
