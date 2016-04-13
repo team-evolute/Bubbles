@@ -1,3 +1,3 @@
 # Bubbles
 
- - Growing intelligence together
+ - Grow intelligence - together!
